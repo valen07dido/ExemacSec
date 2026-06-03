@@ -60,7 +60,7 @@ export default function AdminLogin() {
               required
               disabled={loading}
               className={styles.input}
-              placeholder="Ej: Daniel Durussel"
+              placeholder="Ej: Daniel"
             />
           </div>
 
@@ -74,7 +74,7 @@ export default function AdminLogin() {
               required
               disabled={loading}
               className={styles.input}
-              placeholder="Ej: 0409"
+              placeholder="Ej: 1234"
             />
           </div>
 
